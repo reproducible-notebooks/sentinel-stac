@@ -12,3 +12,4 @@ dependencies:
   - stackstac
   - s3fs
   - fsspec
+  - ipykernel

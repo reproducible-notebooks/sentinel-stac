@@ -1,3 +1,4 @@
+name: stac
 channels:
   - conda-forge
 dependencies:

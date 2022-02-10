@@ -8,7 +8,7 @@ dependencies:
   - geoviews
   - datashader
   - numpy
-  - pystac_client
+  - pystac-client
   - stackstac
   - s3fs
   - fsspec
